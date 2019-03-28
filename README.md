@@ -37,3 +37,6 @@ similar to other kinds of flowers. This file is the code and the results of the 
   a. "Style2.html"
   
   a. "Style2.ipynb"
+
+
+6. I am currently working on a project where I am distinguishing between cells that are infected with Malaria and cells that are healthy. This project automizes the diagnosis process and helps quality diagnosis to remote areas. Before this project was undertaken, it required a trained eye by a professional to make this kind of distinction. Luckily due to Artificial Intelligence and Machine Learning, we are able to make this distinction. The code for this project is on it's way, but it is a project I've been working on. Here is a link to a research paper linked to the project that helped me consider how to solve the problem: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5907772/
